@@ -16,11 +16,12 @@
         <h2>Status Koneksi Database:</h2>
         
         <?php
-            // Memanggil file koneksi.php untuk menjalankan proses koneksi
             include 'koneksi.php';
         ?>
         
         <p>Jika kode ini terlihat di browser (setelah deployment berhasil), berarti Jenkins CI/CD Anda berjalan!</p>
+        
     </div>
 </body>
 </html>
+
