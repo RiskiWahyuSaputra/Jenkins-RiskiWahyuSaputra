@@ -20,8 +20,10 @@
         ?>
         
         <p>Jika kode ini terlihat di browser (setelah deployment berhasil), berarti Jenkins CI/CD Anda berjalan!</p>
+        <p>BERHASIL</p>
         
     </div>
 </body>
 </html>
+
 
