@@ -20,11 +20,12 @@
         ?>
         
         <p>Jika kode ini terlihat di browser (setelah deployment berhasil), berarti Jenkins CI/CD Anda berjalan!</p>
-        <p>BERHASIL NICE</p>
+        <p>BERHASIL NICE GG</p>
         
     </div>
 </body>
 </html>
+
 
 
 
